@@ -320,6 +320,18 @@
           {
             "id": "26",
             "type": "second",
+            "title": "Homepage",
+            "description": "I've recently created the website you are now visiting in order to ease the intake of information and be as transparent as possible with what I do. This will continue to grow over time and include an increased discussion about technologies, ways of working and projects.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/sebastianudden"
+              }
+            ]
+          },
+          {
+            "id": "27",
+            "type": "second",
             "title": "Gist",
             "description": "So I discovered Gists, and wow are they amazing?! A great way to document and improve workflows, here I've used Gist to document the setting up of a Progressive Web App with fast internal routing.",
             "cards": [
