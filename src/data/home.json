@@ -1,0 +1,9 @@
+{
+  "title": "Hi, I'm Sebastian!",
+  "description": "A passionate web developer and JavaScript evangelist. I love lists! So here's a list of some of my core values:",
+  "coreValues": [
+    { "title": "Collaboration", "to": "/collaboration/" },
+    { "title": "Growth", "to": "/growth/" },
+    { "title": "Challenges", "to": "/challenges/" }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "slug": "/collaboration/",
+    "title": "Collaboration",
+    "description": "I'm passionate about finding and creating awesome teams. Because of this, I keep tools such as Scrum, Pair- and mob programming as well as documentation of workflows readily available."
+  },
+  {
+    "slug": "/growth/",
+    "title": "Growth",
+    "description": "I'm on a lifelong quest of knowledge and improvement, both in myself but also to elevate others. Because of this, I enjoy taking on a mentoring role and spreading the gospel of JavaScript in my working environment. In my spare time I like to grow my developer skills through a selection of different projects that includes both testing new technologies as well as refine the knowledge already aquired."
+  },
+  {
+    "slug": "/challenges/",
+    "title": "Challenges",
+    "description": "I enjoy taking on new challenges and thrive in a problem-solving environment. There's something inherently intriguing about taking on a brand new challenge and finding ways to break it into smaller subsets that can be understood and tackled, this has (besides making me passionate about programming) led to a strong competitive side that enjoys sports, games and all other sorts of friendly competition."
+  }
+]

@@ -1,0 +1,341 @@
+[
+  {
+    "slug": "/cv/",
+    "title": "CV",
+    "blocks": [
+      {
+        "id": "1",
+        "type": "first",
+        "title": "Profile",
+        "description": "Front-End developer specializing in modern JavaScript solutions based on React and Node.js. Strategic problem-solver who thrives in challenging environments."
+      },
+      {
+        "id": "2",
+        "type": "first",
+        "title": "Experience",
+        "blocks": [
+          {
+            "id": "3",
+            "type": "second",
+            "title": "Front-End developer",
+            "company": "Daniel Wellington",
+            "start": "September 2018",
+            "end": "Present",
+            "description": "Working on a JavaScript tech-stack based on React and Gatsby, with GraphQL and Node.js running as an intermediary to our serverless cloud solution with AWS."
+          },
+          {
+            "id": "4",
+            "type": "second",
+            "title": "Software developer",
+            "company": "Eurostep Group",
+            "start": "August 2016",
+            "end": "August 2018",
+            "description": "Working as an IT-consultant for Eurostep Group, creating Big Data solutions through the .NET framework and creating an API using a combination of C# and JavaScript."
+          },
+          {
+            "id": "5",
+            "type": "second",
+            "title": "Software developer",
+            "company": "Academic Work Sweden",
+            "start": "April 2016",
+            "end": "February 2017",
+            "description": "Employed by Academic Work as an information technology consultant and software developer specializing in C# .NET, ASP.NET, MVC, HTML5, CSS3 and JavaScript."
+          },
+          {
+            "id": "6",
+            "type": "second",
+            "title": "IT Consultant - Accelerated Education",
+            "company": "AW Academy",
+            "start": "January 2016",
+            "end": "April 2016",
+            "blocks": [
+              {
+                "id": "7",
+                "type": "second",
+                "description": "Graduate at Academic Work Academy. A 12-week Accelerated Education with a focus on:",
+                "list": [
+                  "Object-oriented programming (OOP)",
+                  "Visual Studio",
+                  "C# as well as the framework .NET",
+                  "Microsoft SQL Server, ASP.NET and Web Services",
+                  "HTML5, JavaScript and CSS3"
+                ]
+              },
+              {
+                "id": "8",
+                "type": "second",
+                "description": "Becoming a successful consultant requires more than just technical prowess. A modern IT skill set also requires an inquisitive mind, strategic insight and a willingness to understand why things work, not just how. That's why we've also learned:",
+                "list": [
+                  "User experience design (UX)",
+                  "Communication",
+                  "Critical thinking & problem solving",
+                  "Scrum methodology",
+                  "Project management "
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "/projects/",
+    "title": "Projects",
+    "description": "Here's a selection of projects I'm currently working on as well as some blasts from the past.",
+    "blocks": [
+      {
+        "id": "9",
+        "type": "first",
+        "title": "Daniel Wellington",
+        "blocks": [
+          {
+            "id": "10",
+            "type": "second",
+            "title": "Helix",
+            "description": "I was involved from start to finish in building a design system based in close collaboration with the UX team, setting up a Storybook project as the single source of truth for both UX and developers with well documented atomic components building into larger templates.",
+            "blocks": [
+              {
+                "id": "11",
+                "type": "third",
+                "title": "Technologies",
+                "description": "JavaScript, HTML, CSS, TypeScript, React, Emotion, Storybook, knobs, Markdown, Jest, GIT, YAML, bitbucket pipelines, Jira"
+              },
+              {
+                "id": "12",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "UX, Design, Project planning, Documentation, Scrum, Mob-programming"
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "type": "second",
+            "title": "Proximus",
+            "description": "I was an integral part of the team replacing the old PHP/Magento front-end to a JavaScript stack running React/Gatsby. Some features include complex filter logic of products and streamlined menu-flows as well as sharing functionality and campaign specific functionality. Worked on the rollout of the new project across 60+ locales syncing with Content Managers while improving their tooling by writing extensions for Contentful. Took lead on integrating continuous integration-tests with bitbucket pipelines and Cypress, also helped with mentoring QA on JavaScript best practices and how to manage and add to the continuous integration tests going forward.",
+            "blocks": [
+              {
+                "id": "14",
+                "type": "third",
+                "title": "Technologies",
+                "description": "JavaScript, HTML, CSS, React, Gatsby, Node, GraphQL, styled-components, Contentful, Markdown, Jest, Cypress, GIT, Bash, Webhooks, YAML, Regex, Lambda, EC2, S3, Docker, bitbucket pipelines, Jira"
+              },
+              {
+                "id": "15",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "UX, Design, Documentation, Scrum, Pair-programming, Mob-programming, Test-driven development"
+              }
+            ],
+            "cards": [
+              {
+                "title": "Web",
+                "href": "https://www.danielwellington.com"
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "type": "second",
+            "title": "Mission Control",
+            "description": "Worked as lead on creating a fully responsive platform from the ground up with a UI for parallel deployment of new code/content per country in an easy to use table structure with sort/filter/shortcuts and enabling Content Managers to deploy from their phone as well as on desktop. Setup of credentials was done through Cognito, DynamoDB was used for tracking builds to S3 and Fargate with Dockers was spun up to handle each parallel build initiated.",
+            "blocks": [
+              {
+                "id": "17",
+                "type": "third",
+                "title": "Technologies",
+                "description": "JavaScript, HTML, CSS, React, Gatsby, GraphQL, styled-components, Jest, GIT, YAML, Regex, Lambda, Cognito, DynamoDB, S3. Fargate, Docker, bitbucket pipelines, Jira"
+              },
+              {
+                "id": "18",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "UX, Design, Documentation, Scrum, Pair-programming, Test-driven development"
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "type": "second",
+            "title": "Onboarding and Collaboration",
+            "description": "I worked extensively on improving the teams efficiency through increased collaboration and decreased “time to active” for new members. This was done through improving the quantity and quality of documentation available as well as the processes used for collaboration, such as templates for how to write clear tickets, labelling, structure of epics and reworking the columns used for a clear workflow in Jira. For onboarding I worked with documentation structure allowing new team-mates to take part of the bigger picture first (architecture and tech-stack, accessing the main tooling, communication channels, the Jira board etc.) and then through a clear hierarchy guiding them into the details required for high functioning collaboration (for example working in a mob, writing useful tests, git commands & bash scripting, improving web speed & performance and SEO). Furthermore I worked closely with new members and focused on enabling their performance through methods of pair-programming and mentorship.",
+            "blocks": [
+              {
+                "id": "20",
+                "type": "third",
+                "title": "Technologies",
+                "description": "Markdown, Jira, Confluence"
+              },
+              {
+                "id": "21",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "Documentation, Collaboration, Onboarding, Mentorship, Pair-programming"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "22",
+        "type": "first",
+        "title": "Eurostep",
+        "blocks": [
+          {
+            "id": "23",
+            "type": "second",
+            "title": "Trafikverket - Search",
+            "description": "Working as an in-house consultant for Trafikverket as they shifted to using our platform ShareAspace, I wrote search functionality for the loosely coupled data objects with C# and .NET.",
+            "blocks": [
+              {
+                "id": "24",
+                "type": "third",
+                "title": "Technologies",
+                "description": "C#, .NET, Data structure, Object model, Flow-charts, XML, Regex, GIT"
+              },
+              {
+                "id": "25",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "UX, UI, Design, Mentorship, Presentation, Documentation, Project Planning, Scrum"
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "type": "second",
+            "title": "Trafikverket - APIs and Forms",
+            "description": "Created and maintained REST APIs for accessing traffic camera component data and setup extensive tests using Postman. I worked on setting up web forms and widgets communicating with the above mentioned APIs to display interactive information to the users.",
+            "blocks": [
+              {
+                "id": "24",
+                "type": "third",
+                "title": "Technologies",
+                "description": "C#, .NET, Data structure, Object model, Flow-charts, XML, Regex, Postman, JavaScript, HTML, CSS, Knockout, React, GIT"
+              },
+              {
+                "id": "25",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "Documentation, Scrum"
+              }
+            ]
+          },
+          {
+            "id": "29",
+            "type": "second",
+            "title": "Trafikverket - DevOps",
+            "description": "Worked continually with setting up a continuous deployment flow through Azure with the help of Azure DevOps and Azure Pipelines.",
+            "blocks": [
+              {
+                "id": "24",
+                "type": "third",
+                "title": "Technologies",
+                "description": "GIT, Azure DevOps, Azure Pipelines"
+              },
+              {
+                "id": "25",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "Mentorship, Presentation, Documentation, Project Planning, Scrum"
+              }
+            ]
+          },
+          {
+            "id": "30",
+            "type": "second",
+            "title": "Collaboration & Mentorship",
+            "description": "There was a big interest among colleagues to renew and refine knowledge of tech that may be attractive for coming clients. I took initiative and started to mentor colleagues on GIT- and React best practices through hackathons and mini-courses. I also took on the role as Scrum Master on multiple occasions, handling dailies, retrospectives and plannings.",
+            "blocks": [
+              {
+                "id": "24",
+                "type": "third",
+                "title": "Technologies",
+                "description": "GIT, React"
+              },
+              {
+                "id": "25",
+                "type": "third",
+                "title": "Soft skills",
+                "description": "UX, UI, Design, Mentorship, Presentation, Documentation, Project Planning"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "31",
+        "type": "first",
+        "title": "Private projects",
+        "blocks": [
+          {
+            "id": "23",
+            "type": "second",
+            "title": "Pillow Wiki",
+            "description": "I've created a platform for the Pillow project, allowing the members to handle a large data-set through a generic and reusable structure. It includes search functionality, hierarchical and easily navigable side menu, breadcrumbs structure and most importantly editing and display of markdown for data objects. The markdown structure allows editors to easily handle titles, paragraphs, lists, links and more.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/pp-wiki"
+              },
+              {
+                "title": "Web",
+                "href": "https://pillow-wiki.netlify.com/"
+              }
+            ]
+          },
+          {
+            "id": "24",
+            "type": "second",
+            "title": "Pillow Components",
+            "description": "In order to be agile when creating new tools for the Pillow project I've created a design system with reusable components using React and Storybook.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/pp-storybook"
+              },
+              {
+                "title": "Web",
+                "href": "https://pillow-components.netlify.com/"
+              }
+            ]
+          },
+          {
+            "id": "25",
+            "type": "second",
+            "title": "HairDo",
+            "description": "A project I'm working on with former colleagues, created as a static site with React and Gatsby.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/hairdo"
+              },
+              {
+                "title": "Web",
+                "href": "https://hairdo.netlify.com/"
+              }
+            ]
+          },
+          {
+            "id": "26",
+            "type": "second",
+            "title": "Gist",
+            "description": "So I discovered Gists, and wow are they amazing?! A great way to document and improve workflows, here I've used Gist to document the setting up of a Progressive Web App with fast internal routing.",
+            "cards": [
+              {
+                "title": "Gist",
+                "href": "https://gist.github.com/SebastianUdden/7c094bcb59702f014baff9ea44e646e2"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "/contact/",
+    "title": "Contact",
+    "description": "Have an interesting opportunity to discuss with me or want to know more about what I've done? Check out my GitHub and LinkedIn by clicking the links in the footer."
+  }
+]
