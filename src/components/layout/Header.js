@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"
 import styled from "styled-components"
-import SEO from "../seo"
+import SEO from "../Seo"
 import Link from "../ui/Link"
 import { darkGrey } from "../../constants/colors"
 
