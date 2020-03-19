@@ -8,12 +8,10 @@ export default ({
     home: { title, description, coreValues },
     categories,
   },
-}) => {
-  return (
-    <Layout meta={{ title: "Home" }} categories={categories}>
-      <H1>{title}</H1>
-      <P>{description}</P>
-      {coreValues && <Cards cards={coreValues} />}
-    </Layout>
-  )
-}
+}) => (
+  <Layout meta={{ title: "Home" }} categories={categories}>
+    <H1>{title}</H1>
+    <P>{description}</P>
+    {coreValues && <Cards cards={coreValues} />}
+  </Layout>
+)
