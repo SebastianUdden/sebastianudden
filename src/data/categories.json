@@ -270,6 +270,22 @@
         "title": "Private projects",
         "blocks": [
           {
+            "id": "24",
+            "type": "second",
+            "title": "SimplyChess",
+            "description": "A chess app for the modern web. This was created over a weekend as a fun logical challenge.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/simply-chess"
+              },
+              {
+                "title": "Web",
+                "href": "https://simply-chess.netlify.com/"
+              }
+            ]
+          },
+          {
             "id": "23",
             "type": "second",
             "title": "Pillow Wiki",
