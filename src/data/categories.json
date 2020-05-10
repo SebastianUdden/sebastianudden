@@ -209,13 +209,13 @@
             "description": "Created and maintained REST APIs for accessing traffic camera component data and setup extensive tests using Postman. I worked on setting up web forms and widgets communicating with the above mentioned APIs to display interactive information to the users.",
             "blocks": [
               {
-                "id": "24",
+                "id": "27",
                 "type": "third",
                 "title": "Technologies",
                 "description": "C#, .NET, Data structure, Object model, Flow-charts, XML, Regex, Postman, JavaScript, HTML, CSS, Knockout, React, GIT"
               },
               {
-                "id": "25",
+                "id": "28",
                 "type": "third",
                 "title": "Soft skills",
                 "description": "Documentation, Scrum"
@@ -229,13 +229,13 @@
             "description": "Worked continually with setting up a continuous deployment flow through Azure with the help of Azure DevOps and Azure Pipelines.",
             "blocks": [
               {
-                "id": "24",
+                "id": "30",
                 "type": "third",
                 "title": "Technologies",
                 "description": "GIT, Azure DevOps, Azure Pipelines"
               },
               {
-                "id": "25",
+                "id": "31",
                 "type": "third",
                 "title": "Soft skills",
                 "description": "Mentorship, Presentation, Documentation, Project Planning, Scrum"
@@ -243,19 +243,19 @@
             ]
           },
           {
-            "id": "30",
+            "id": "32",
             "type": "second",
             "title": "Collaboration & Mentorship",
             "description": "There was a big interest among colleagues to renew and refine knowledge of tech that may be attractive for coming clients. I took initiative and started to mentor colleagues on GIT- and React best practices through hackathons and mini-courses. I also took on the role as Scrum Master on multiple occasions, handling dailies, retrospectives and plannings.",
             "blocks": [
               {
-                "id": "24",
+                "id": "33",
                 "type": "third",
                 "title": "Technologies",
                 "description": "GIT, React"
               },
               {
-                "id": "25",
+                "id": "34",
                 "type": "third",
                 "title": "Soft skills",
                 "description": "UX, UI, Design, Mentorship, Presentation, Documentation, Project Planning"
@@ -265,12 +265,12 @@
         ]
       },
       {
-        "id": "31",
+        "id": "35",
         "type": "first",
         "title": "Private projects",
         "blocks": [
           {
-            "id": "24",
+            "id": "36",
             "type": "second",
             "title": "SimplyChess",
             "description": "A chess app for the modern web. This was created over a weekend as a fun logical challenge.",
@@ -286,7 +286,39 @@
             ]
           },
           {
-            "id": "23",
+            "id": "37",
+            "type": "second",
+            "title": "SimplyOthello",
+            "description": "An Othello application for the modern web.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/simply-othello"
+              },
+              {
+                "title": "Web",
+                "href": "https://simply-othello.netlify.com/"
+              }
+            ]
+          },
+          {
+            "id": "38",
+            "type": "second",
+            "title": "SimplyChatroom",
+            "description": "A chat application for the modern web, built with Node, Socket.io and Express.",
+            "cards": [
+              {
+                "title": "Code",
+                "href": "https://github.com/sebastianudden/simply-chatroom"
+              },
+              {
+                "title": "Web",
+                "href": "https://simply-chatroom.netlify.com/"
+              }
+            ]
+          },
+          {
+            "id": "39",
             "type": "second",
             "title": "Pillow Wiki",
             "description": "I've created a platform for the Pillow project, allowing the members to handle a large data-set through a generic and reusable structure. It includes search functionality, hierarchical and easily navigable side menu, breadcrumbs structure and most importantly editing and display of markdown for data objects. The markdown structure allows editors to easily handle titles, paragraphs, lists, links and more.",
@@ -302,7 +334,7 @@
             ]
           },
           {
-            "id": "24",
+            "id": "40",
             "type": "second",
             "title": "Pillow Components",
             "description": "In order to be agile when creating new tools for the Pillow project I've created a design system with reusable components using React and Storybook.",
@@ -318,7 +350,7 @@
             ]
           },
           {
-            "id": "25",
+            "id": "41",
             "type": "second",
             "title": "HairDo",
             "description": "A project I'm working on with former colleagues, created as a static site with React and Gatsby.",
@@ -334,10 +366,10 @@
             ]
           },
           {
-            "id": "26",
+            "id": "42",
             "type": "second",
             "title": "Homepage",
-            "description": "I've recently created the website you are now visiting in order to ease the intake of information and be as transparent as possible with what I do. This will continue to grow over time and include an increased discussion about technologies, ways of working and projects.",
+            "description": "I've created the website you are now visiting in order to ease the intake of information and be as transparent as possible with what I do. This will continue to grow over time and include an increased discussion about technologies, ways of working and projects.",
             "cards": [
               {
                 "title": "Code",
@@ -346,7 +378,7 @@
             ]
           },
           {
-            "id": "27",
+            "id": "43",
             "type": "second",
             "title": "Gist",
             "description": "So I discovered Gists, and wow are they amazing?! A great way to document and improve workflows, here I've used Gist to document the setting up of a Progressive Web App with fast internal routing.",
