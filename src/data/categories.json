@@ -15,12 +15,21 @@
         "title": "Experience",
         "blocks": [
           {
+            "id": "43",
+            "type": "second",
+            "title": "Consultant",
+            "company": "Alphadev",
+            "start": "May 2020",
+            "end": "Present",
+            "description": "I'm happy to announce that I'm now part of the Alphadev family, a highly talented group of senior developer consultants."
+          },
+          {
             "id": "3",
             "type": "second",
             "title": "Front-End developer",
             "company": "Daniel Wellington",
             "start": "September 2018",
-            "end": "Present",
+            "end": "May 2020",
             "description": "Working on a JavaScript tech-stack based on React and Gatsby, with GraphQL and Node.js running as an intermediary to our serverless cloud solution with AWS."
           },
           {
